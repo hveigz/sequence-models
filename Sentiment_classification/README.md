@@ -8,4 +8,5 @@ Neural Network based sentiment analysis
 4 - [BI-LSTM-pre-trained-embeds](https://github.com/hveigz/sequence-models/blob/master/Sentiment_classification/BI-LSTM-pre-trained-embeds.ipynb) <br>
 5 - [BI-LSTM-pre-trained-embeds-Adam](https://github.com/hveigz/sequence-models/blob/master/Sentiment_classification/BI-LSTM-pre-trained-embeds-Adam.ipynb) <br>
 6 - [BI-LSTM-pre-trained-embeds-Adam-Dropout](https://github.com/hveigz/sequence-models/blob/master/Sentiment_classification/BI-LSTM-pre-trained-embeds-Adam-Dropout.ipynb) <br>
+7 - [Deep-BI-LSTM-pre-trained-embeds-Adam-Dropout](https://github.com/hveigz/sequence-models/blob/master/Sentiment_classification/Deep-BI-LSTM-pre-trained-embeds-Adam-Dropout.ipynb) <br>
 
